@@ -1,3 +1,3 @@
-/restaurant/menu/
-/restaurant/menu/p.k/
-/restaurant/booking/
+* /restaurant/menu/
+* /restaurant/menu/p.k/
+* /restaurant/booking/
